@@ -1,0 +1,24 @@
+.divintro{
+ font-style: italic;
+ font-weight: 100%;
+ font-size: large;
+ background-color: aqua;
+ padding:middle;
+ color: red;
+ text-align: center;
+
+}
+
+.hero{
+text-align: center;
+align-items: center;
+display: inline-flex;
+gap: 10px;
+}
+.boring{
+    text-overflow: clip;
+    font-size: bold;
+    font-style: italic;
+    color: purple;
+    
+}
